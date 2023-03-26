@@ -1,115 +1,409 @@
 (1)
-Incorporates sensory means of communication (Tactile / Audio feedback or input). Smooth Texture. Durable plastic frame (Acrylic, PVC, etc.). Lack of instruction manual.
-With Objectives: HYS, EGN, CLS, DUR, CEF, EZY
-Score: 43.0
+Incorporates sensory means of communication (Tactile / Audio feedback or input). Durable plastic frame (Acrylic, PVC, etc.). A uniform body, with no cases or removable aspects.. Should not include forms of facilitated communication.
+With Objectives: HYS, EGN, DUR, CEF, CLS, EZY
+Score: 45.0
 
 (2)
-Incorporates sensory means of communication (Tactile / Audio feedback or input). Carbon-Fiber frame. A uniform body, with no cases or removable aspects.. Should not include forms of facilitated communication.
-With Objectives: HYS, EGN, DUR, POR, CLS, CEF, EZY
-Score: 43.0
+Incorporates sensory means of communication (Tactile / Audio feedback or input). Infrequent software updates. Tablet with a strong case/cover (Otterbox). A uniform body, with no cases or removable aspects..
+With Objectives: HYS, EGN, EZY, CEF, DUR, CLS
+Score: 45.0
 
 (3)
-Incorporates sensory means of communication (Tactile / Audio feedback or input). Infrequent software updates. A virtual reward system or virtual celebration for completing communication activities. Liquid-tight enclosure.
-With Objectives: HYS, EGN, EZY, CEF, DUR, CLS
-Score: 43.0
+Smooth Texture. Incorporates favorite colors while avoiding irritating ones. Durable plastic frame (Acrylic, PVC, etc.). Should not include forms of facilitated communication.
+With Objectives: HYS, CLS, EGN, DUR, CEF, EZY
+Score: 45.0
 
 (4)
-Analogue Design with no Electronics. Durable plastic frame (Acrylic, PVC, etc.). Limited small parts, buttons, knobs, or removable aspects. Drawing applications or capabilities, promoting creative growth.
-With Objectives: HYS, CEF, DUR, CLS, EZY, EGN
-Score: 43.0
+Smooth Texture. Allows Phoebe to indicate when she is overstimulated.. Durable plastic frame (Acrylic, PVC, etc.). Machine Translation- similar to Google Translate.
+With Objectives: HYS, CLS, DUR, CEF, EGN, POR, EZY
+Score: 45.0
 
 (5)
-Analogue Design with no Electronics. Liquid-tight enclosure. Inclusion of replaceable batteries. Should not include forms of facilitated communication.
-With Objectives: HYS, CEF, DUR, CLS, EGN, POR, EZY
-Score: 43.0
+Smooth Texture. Durable plastic frame (Acrylic, PVC, etc.). Lack of instruction manual. A virtual reward system or virtual celebration for completing communication activities.
+With Objectives: HYS, CLS, DUR, CEF, EZY, EGN
+Score: 45.0
 
 (6)
-Blue Light Filters. Fixed Podium or Mount. Limited small parts, buttons, knobs, or removable aspects. A virtual reward system or virtual celebration for completing communication activities.
-With Objectives: HYS, DUR, CLS, CEF, EZY, EGN
-Score: 43.0
+Smooth Texture. Durable plastic frame (Acrylic, PVC, etc.). Easy and intuitive to assemble or set up.. Drawing applications or capabilities, promoting creative growth.
+With Objectives: HYS, CLS, DUR, CEF, EZY, EGN
+Score: 45.0
 
 (7)
-Blue Light Filters. Multimodal UI Aspects. Picture board. Liquid-tight enclosure.
-With Objectives: HYS, EGN, EZY, CEF, DUR, CLS
-Score: 43.0
+Smooth Texture. Fixed Podium or Mount. Should not include forms of facilitated communication. A virtual reward system or virtual celebration for completing communication activities.
+With Objectives: HYS, CLS, DUR, EZY, CEF, EGN
+Score: 45.0
 
 (8)
-Monochrome UI. Drawing applications or capabilities, promoting creative growth. Visual Schedule (similar to 72 - builds on Schedule in Appendix). Liquid-tight enclosure.
-With Objectives: HYS, EGN, EZY, CEF, DUR, CLS
-Score: 43.0
+Smooth Texture. Fixed Podium or Mount. Infrequent software updates. Drawing applications or capabilities, promoting creative growth.
+With Objectives: HYS, CLS, DUR, EZY, CEF, EGN
+Score: 45.0
 
 (9)
-Adjustable Audio and Brightness. Inclusion of replaceable batteries. Gels or shock-absorbing material built into the frame of the design. Limited small parts, buttons, knobs, or removable aspects.
-With Objectives: HYS, EGN, POR, DUR, CEF, CLS, EZY
-Score: 43.0
+Smooth Texture. Vivid and diverse set of colours in UI. Tablet with a strong case/cover (Otterbox). Should not include forms of facilitated communication.
+With Objectives: HYS, CLS, EGN, DUR, EZY, CEF
+Score: 45.0
 
 (10)
-Smooth Texture. Incorporates favourite colours while avoiding irritating ones. Magnets to mount. Should not include forms of facilitated communication.
-With Objectives: HYS, CLS, EGN, DUR, EZY, CEF
-Score: 43.0
+Smooth Texture. Inclusion of replaceable batteries. Gels or shock-absorbing material built into the frame of the design. Should not include forms of facilitated communication.
+With Objectives: HYS, CLS, EGN, POR, DUR, CEF, EZY
+Score: 45.0
 
 (11)
-Smooth Texture. Carbon-Fiber frame. Infrequent software updates. Drawing applications or capabilities, promoting creative growth.
-With Objectives: HYS, CLS, DUR, POR, EZY, CEF, EGN
-Score: 44.0
+Smooth Texture. Inclusion of replaceable batteries. Picture board. Durable plastic frame (Acrylic, PVC, etc.).
+With Objectives: HYS, CLS, EGN, POR, EZY, CEF, DUR
+Score: 45.0
 
 (12)
-Smooth Texture. Fixed Podium or Mount. Single-page UI with limited action elements, following design principles for such. Multimodal UI Aspects.
+Smooth Texture. Cue Cards with Phoebe's common needs. Tablet with a strong case/cover (Otterbox). Machine Translation- similar to Google Translate.
+With Objectives: HYS, CLS, CEF, DUR, EGN, POR, EZY
+Score: 45.0
+
+(13) 
+Smooth Texture. Picture board. Tablet with a strong case/cover (Otterbox). A virtual reward system or virtual celebration for completing communication activities.
+With Objectives: HYS, CLS, EZY, CEF, DUR, EGN
+Score: 45.0
+
+(14) 
+Incorporates favourite colours while avoiding irritating ones. Durable plastic frame (Acrylic, PVC, etc.). Picture board. A uniform body, with no cases or removable aspects..
+With Objectives: HYS, EGN, DUR, CEF, EZY, CLS
+Score: 45.0
+
+(15) 
+Incorporates favourite colours while avoiding irritating ones. Fixed Podium or Mount. A uniform body, with no cases or removable aspects. Should not include forms of facilitated communication.
+With Objectives: HYS, EGN, DUR, CLS, CEF, EZY
+Score: 45.0
+
+(16) 
+Incorporates favourite colours while avoiding irritating ones. Incorporates copper elements, or another antibacterial material. Tablet with a strong case/cover (Otterbox). Should not include forms of facilitated communication.
+With Objectives: HYS, EGN, CLS, DUR, EZY, CEF
+Score: 45.0
+
+(17) 
+Allows Phoebe to indicate when she is overstimulated. Fixed Podium or Mount. A uniform body, with no cases or removable aspects.. Machine Translation- similar to Google Translate.
+With Objectives: HYS, DUR, CLS, CEF, EGN, POR, EZY
+Score: 45.0
+
+(18)
+Allows Phoebe to indicate when she is overstimulated.. Limited moving parts that would contribute to high maintenance costs. Tablet with a strong case/cover (Otterbox). Machine Translation- similar to Google Translate.
+With Objectives: HYS, CEF, CLS, DUR, EGN, POR, EZY
+Score: 45.0
+
+(19) 
+Durable plastic frame (Acrylic, PVC, etc.). Incorporates copper elements, or another antibacterial material. Cue Cards with Phoebe's common needs. Machine Translation- similar to Google Translate.
+With Objectives: DUR, CEF, CLS, HYS, EGN, POR, EZY
+Score: 45.0
+
+(20) 
+Durable plastic frame (Acrylic, PVC, etc.). Limited small parts, buttons, knobs, or removable aspects. Drawing applications or capabilities, promoting creative growth. Comfortable to grasp or hold.
+With Objectives: DUR, CEF, CLS, EZY, EGN, POR, HYS
+Score: 45.0
+
+(21) 
+Durable plastic frame (Acrylic, PVC, etc.). Handles and other ergonomic aspects. Is safe to put in your mouth. Drawing applications or capabilities, promoting creative growth.
+With Objectives: DUR, CEF, EZY, POR, HYS, CLS, EGN
+Score: 45.0
+
+(22) 
+Durable plastic frame (Acrylic, PVC, etc.). Vivid and diverse set of colours in UI. Is safe to put in your mouth. Should not include forms of facilitated communication.
+With Objectives: DUR, CEF, EGN, HYS, CLS, EZY
+Score: 45.0
+
+(23) 
+Durable plastic frame (Acrylic, PVC, etc.). Inclusion of replaceable batteries. Is safe to put in your mouth. Lack of instruction manual.
+With Objectives: DUR, CEF, EGN, POR, HYS, CLS, EZY
+Score: 45.0
+
+(24)
+Durable plastic frame (Acrylic, PVC, etc.). Picture board. Is safe to put in your mouth. A virtual reward system or virtual celebration for completing communication activities.
+With Objectives: DUR, CEF, EZY, HYS, CLS, EGN
+Score: 45.0
+
+(25)
+Fixed Podium or Mount. Inclusion of replaceable batteries. Is safe to put in your mouth. Should not include forms of facilitated communication.
+With Objectives: DUR, EGN, POR, HYS, CLS, EZY, CEF
+Score: 45.0
+
+(26)
+Liquid-tight enclosure. Should not include forms of facilitated communication. A virtual reward system or virtual celebration for completing communication activities. Comfortable to grasp or hold.
+With Objectives: DUR, CLS, EZY, CEF, EGN, POR, HYS
+Score: 45.0
+
+(27)
+Liquid-tight enclosure. Infrequent software updates. Drawing applications or capabilities, promoting creative growth. Comfortable to grasp or hold.
+With Objectives: DUR, CLS, EZY, CEF, EGN, POR, HYS
+Score: 45.0
+
+(28)
+A uniform body, with no cases or removable aspects. Gels or shock-absorbing material built into the frame of the design. Cue Cards with Phoebe's common needs. Machine Translation- similar to Google Translate.
+With Objectives: CLS, CEF, DUR, HYS, EGN, POR, EZY
+Score: 45.0
+
+(29)
+Should not include forms of facilitated communication. Gels or shock-absorbing material built into the frame of the design. Is safe to put in your mouth. A virtual reward system or virtual celebration for completing communication activities.
+With Objectives: EZY, CEF, DUR, HYS, CLS, EGN
+Score: 45.0
+
+(30)
+Infrequent software updates. Gels or shock-absorbing material built into the frame of the design. Is safe to put in your mouth. Drawing applications or capabilities, promoting creative growth.
+With Objectives: EZY, CEF, DUR, HYS, CLS, EGN
+Score: 45.0
+
+(31)
+Includes media that Phoebe enjoys. Machine Translation- similar to Google Translate. Is safe to put in your mouth. Durable plastic frame (Acrylic, PVC, etc.).
+With Objectives: EGN, POR, EZY, HYS, CLS, DUR, CEF
+Score: 45.0
+
+(32)
+Includes media that Phoebe enjoys. Tablet with a strong case/cover (Otterbox). Is safe to put in your mouth. Should not include forms of facilitated communication.
+With Objectives: EGN, DUR, HYS, CLS, EZY, CEF
+Score: 45.0
+
+(33)
+A virtual reward system or virtual celebration for completing communication activities. Gels or shock-absorbing material built into the frame of the design. Machine Translation - similar to Google Translate. Smooth Texture.
+With Objectives: EGN, DUR, CEF, POR, EZY, HYS, CLS
+Score: 45.0
+
+(34)
+Inclusion of replaceable batteries. Visual Schedule (similar to 72 - builds on Schedule in Appendix). Tablet with a strong case/cover (Otterbox). Smooth Texture.
+With Objectives: EGN, POR, EZY, CEF, DUR, HYS, CLS
+Score: 45.0
+
+(35)
+Visual Schedule (similar to 72 - builds on Schedule in Appendix). Tablet with a strong case/cover (Otterbox). Is safe to put in your mouth. A virtual reward system or virtual celebration for completing communication activities.
+With Objectives: EZY, CEF, DUR, HYS, CLS, EGN
+Score: 45.0
+
+(36)
+Incorporates sensory means of communication (Tactile / Audio feedback or input). Smooth Texture. Durable plastic frame (Acrylic, PVC, etc.). Should not include forms of facilitated communication.
+With Objectives: HYS, EGN, CLS, DUR, CEF, EZY
+Score: 44.0
+
+(37)
+Incorporates sensory means of communication (Tactile / Audio feedback or input). Fixed Podium or Mount. Infrequent software updates. A uniform body, with no cases or removable aspects..
+With Objectives: HYS, EGN, DUR, EZY, CEF, CLS
+Score: 44.0
+
+(38)
+Blue Light Filters. Durable plastic frame (Acrylic, PVC, etc.). Limited small parts, buttons, knobs, or removable aspects. A virtual reward system or virtual celebration for completing communication activities.
+With Objectives: HYS, DUR, CEF, CLS, EZY, EGN
+Score: 44.0
+
+(39)
+Blue Light Filters. Liquid-tight enclosure. Inclusion of replaceable batteries. Should not include forms of facilitated communication.
+With Objectives: HYS, DUR, CLS, EGN, POR, EZY, CEF
+Score: 44.0
+
+(40)
+Monochrome UI. Liquid-tight enclosure. Infrequent software updates. Drawing applications or capabilities, promoting creative growth.
+With Objectives: HYS, DUR, CLS, EZY, CEF, EGN
+Score: 44.0
+
+(41)
+Adjustable Audio and Brightness. Inclusion of replaceable batteries. Tablet with a strong case/cover (Otterbox). Limited small parts, buttons, knobs, or removable aspects.
+With Objectives: HYS, EGN, POR, DUR, CLS, CEF, EZY
+Score: 44.0
+
+(42)
+Smooth Texture. Allows Phoebe to indicate when she is overstimulated.. Gels or shock-absorbing material built into the frame of the design. Machine Translation- similar to Google Translate.
+With Objectives: HYS, CLS, DUR, CEF, EGN, POR, EZY
+Score: 44.0
+
+(43)
+Smooth Texture. Fixed Podium or Mount. Picture board. A virtual reward system or virtual celebration for completing communication activities.
 With Objectives: HYS, CLS, DUR, EZY, CEF, EGN
-Score: 43.0
+Score: 44.0
 
-(13)
-Smooth Texture. Bamboo frame. Picture board. A virtual reward system or virtual celebration for completing communication activities.
-With Objectives: HYS, CLS, DUR, POR, EZY, CEF, EGN
-Score: 43.0
+(44)
+Smooth Texture. Single-page UI with limited action elements, following design principles for such. Tablet with a strong case/cover (Otterbox). Multimodal UI Aspects.
+With Objectives: HYS, CLS, EZY, CEF, DUR, EGN
+Score: 44.0
 
-(14)
-Smooth Texture. Gels or shock-absorbing material built into the frame of the design. Visual Schedule (similar to 72 - builds on Schedule in Appendix). Includes media that Phoebe enjoys.
-With Objectives: HYS, CLS, DUR, CEF, EZY, EGN
-Score: 43.0
+(45)
+Incorporates favourite colours while avoiding irritating ones. Carbon-Fiber frame. A uniform body, with no cases or removable aspects. Should not include forms of facilitated communication.
+With Objectives: HYS, EGN, DUR, POR, CLS, CEF, EZY
+Score: 44.0
 
-(15)
-Incorporates favourite colours while avoiding irritating ones. Fixed Podium or Mount. Integration of an AI assistant, with the help of an open source API. A uniform body, with no cases or removable aspects..
-With Objectives: HYS, EGN, DUR, EZY, CLS, CEF
-Score: 43.0
-
-(16)
+(46)
 Incorporates favourite colours while avoiding irritating ones. Incorporates copper elements, or another antibacterial material. Picture board. Durable plastic frame (Acrylic, PVC, etc.).
 With Objectives: HYS, EGN, CLS, EZY, CEF, DUR
 Score: 44.0
 
-(17)
-Carbon-Fiber frame. Visual Schedule (similar to 72 - builds on Schedule in Appendix). Is safe to put in your mouth. A virtual reward system or virtual celebration for completing communication activities.
-With Objectives: DUR, POR, EZY, CEF, HYS, CLS, EGN
+(47)
+Durable plastic frame (Acrylic, PVC, etc.). Liquid-tight enclosure. Cue Cards with Phoebe's common needs. Machine Translation- similar to Google Translate.
+With Objectives: DUR, CEF, CLS, HYS, EGN, POR, EZY
+Score: 44.0
+
+(48)
+Durable plastic frame (Acrylic, PVC, etc.). Lack of instruction manual. Is safe to put in your mouth. Includes media that Phoebe enjoys.
+With Objectives: DUR, CEF, EZY, HYS, CLS, EGN
+Score: 44.0
+
+(49)
+Magnets to mount. Should not include forms of facilitated communication. Is safe to put in your mouth. A virtual reward system or virtual celebration for completing communication activities.
+With Objectives: DUR, EZY, CEF, HYS, CLS, EGN
+Score: 44.0
+
+(50)
+Fixed Podium or Mount. Limited small parts, buttons, knobs, or removable aspects. Drawing applications or capabilities, promoting creative growth. Comfortable to grasp or hold.
+With Objectives: DUR, CLS, CEF, EZY, EGN, POR, HYS
+Score: 44.0
+
+(51)
+Liquid-tight enclosure. A virtual reward system or virtual celebration for completing communication activities. Visual Schedule (similar to 72 - builds on Schedule in Appendix). Comfortable to grasp or hold.
+With Objectives: DUR, CLS, EGN, EZY, CEF, POR, HYS
+Score: 44.0
+
+(52)
+A uniform body, with no cases or removable aspects. Tablet with a strong case/cover (Otterbox). Physiological Sensor integration for feedback loop on Phoebe's symptoms (Apple Watch). Machine Translation- similar to Google Translate.
+With Objectives: CLS, CEF, DUR, HYS, EGN, POR, EZY
+Score: 44.0
+
+(53)
+Easy and intuitive to assemble or set up. Gels or shock-absorbing material built into the frame of the design. Is safe to put in your mouth. Drawing applications or capabilities, promoting creative growth.
+With Objectives: EZY, DUR, CEF, HYS, CLS, EGN
+Score: 44.0
+
+(54)
+Incorporates sensory means of communication (Tactile / Audio feedback or input). Smooth Texture. Durable plastic frame (Acrylic, PVC, etc.). Lack of instruction manual.
+With Objectives: HYS, EGN, CLS, DUR, CEF, EZY
 Score: 43.0
 
-(18)
-Tempered Glass (Screen), if any.. Multimodal UI Aspects. Is safe to put in your mouth. Should not include forms of facilitated communication.
-With Objectives: DUR, EGN, HYS, CLS, EZY, CEF
+(55)
+Incorporates sensory means of communication (Tactile / Audio feedback or input). Carbon-Fiber frame. A uniform body, with no cases or removable aspects.. Should not include forms of facilitated communication.
+With Objectives: HYS, EGN, DUR, POR, CLS, CEF, EZY
 Score: 43.0
 
-(19)
-Durable plastic frame (Acrylic, PVC, etc.). A uniform body, with no cases or removable aspects.. Chatbot that simplifies a statement or question for user. Comfortable to grasp or hold.
-With Objectives: DUR, CEF, CLS, EGN, EZY, POR, HYS
+(56)
+Incorporates sensory means of communication (Tactile / Audio feedback or input). Fixed Podium or Mount. Machine Translation- similar to Google Translate. Limited moving parts that would contribute to high maintenance costs.
+With Objectives: HYS, EGN, DUR, POR, EZY, CEF, CLS
 Score: 43.0
 
-(20)
+(57)
+Incorporates sensory means of communication (Tactile / Audio feedback or input). Incorporates copper elements, or another antibacterial material. Tablet with a strong case/cover (Otterbox). Picture board.
+With Objectives: HYS, EGN, CLS, DUR, EZY, CEF
+Score: 43.0
+
+(58)
+Incorporates sensory means of communication (Tactile / Audio feedback or input). Infrequent software updates. A virtual reward system or virtual celebration for completing communication activities. Liquid-tight enclosure.
+With Objectives: HYS, EGN, EZY, CEF, DUR, CLS
+Score: 43.0
+
+(59)
+AI Model trained on Phoebe's needs via caretakers. Smooth Texture. Tablet with a strong case/cover (Otterbox). Machine Translation- similar to Google Translate.
+With Objectives: POR, CEF, HYS, CLS, DUR, EGN, EZY
+Score: 43.0
+
+(60) 
+Analogue Design with no Electronics. Durable plastic frame (Acrylic, PVC, etc.). Limited small parts, buttons, knobs, or removable aspects. Drawing applications or capabilities, promoting creative growth.
+With Objectives: HYS, CEF, DUR, CLS, EZY, EGN
+Score: 43.0
+
+(61)
+Analogue Design with no Electronics. Liquid-tight enclosure. Inclusion of replaceable batteries. Should not include forms of facilitated communication.
+With Objectives: HYS, CEF, DUR, CLS, EGN, POR, EZY
+Score: 43.0
+
+(62)
+Blue Light Filters. Fixed Podium or Mount. Limited small parts, buttons, knobs, or removable aspects. A virtual reward system or virtual celebration for completing communication activities.
+With Objectives: HYS, DUR, CLS, CEF, EZY, EGN
+Score: 43.0
+
+(63)
+Blue Light Filters. Liquid-tight enclosure. Multimodal UI Aspects. Picture board.
+With Objectives: HYS, DUR, CLS, EGN, EZY, CEF
+Score: 43.0
+
+(64)
+Monochrome UI. Liquid-tight enclosure. Cue Cards with Phoebe's common needs. Machine Translation- similar to Google Translate.
+With Objectives: HYS, DUR, CLS, CEF, EGN, POR, EZY
+Score: 43.0
+
+(65)
+Adjustable Audio and Brightness. Limited small parts, buttons, knobs, or removable aspects. Tablet with a strong case/cover (Otterbox). Includes media that Phoebe enjoys.
+With Objectives: HYS, CLS, CEF, EZY, DUR, EGN
+Score: 43.0
+
+(66)
+Adjustable Audio and Brightness. Drawing applications or capabilities, promoting creative growth. Visual Schedule (similar to 72 - builds on Schedule in Appendix). Liquid-tight enclosure.
+With Objectives: HYS, EGN, EZY, CEF, DUR, CLS
+Score: 43.0
+
+(67) (CHARLES UNTIL END)
+Smooth Texture. Incorporates favourite colours while avoiding irritating ones. Magnets to mount. Should not include forms of facilitated communication.
+With Objectives: HYS, CLS, EGN, DUR, EZY, CEF
+Score: 43.0
+
+(68)
+Smooth Texture. Carbon-Fiber frame. A virtual reward system or virtual celebration for completing communication activities. Picture board.
+With Objectives: HYS, CLS, DUR, POR, EGN, EZY, CEF
+Score: 43.0
+
+(69)
+Smooth Texture. Tempered Glass (Screen), if any. Infrequent software updates. Drawing applications or capabilities, promoting creative growth.
+With Objectives: HYS, CLS, DUR, EZY, CEF, EGN
+Score: 43.0
+
+(70)
+Smooth Texture. Fixed Podium or Mount. Single-page UI with limited action elements, following design principles for such. Multimodal UI Aspects.
+With Objectives: HYS, CLS, DUR, EZY, CEF, EGN
+Score: 43.0
+
+(71)
+Smooth Texture. Intuitive UI/UX. Inclusion of replaceable batteries. Gels or shock-absorbing material built into the frame of the design.
+With Objectives: HYS, CLS, EZY, EGN, POR, DUR, CEF
+Score: 43.0
+
+(72)
+Incorporates favourite colours while avoiding irritating ones. Durable plastic frame (Acrylic, PVC, etc.). Incorporates copper elements, or another antibacterial material. Integration of an AI assistant, with the help of an open source API.
+With Objectives: HYS, EGN, DUR, CEF, CLS, EZY
+Score: 43.0
+
+(73)
+Incorporates favourite colours while avoiding irritating ones. Fixed Podium or Mount. Is safe to put in your mouth. Picture board.
+With Objectives: HYS, EGN, DUR, CLS, EZY, CEF
+Score: 43.0
+
+(74)
+Allows Phoebe to indicate when she is overstimulated. Tempered Glass (Screen), if any. A uniform body, with no cases or removable aspects. Machine Translation - similar to Google Translate.
+With Objectives: HYS, DUR, CLS, CEF, EGN, POR, EZY
+Score: 43.0
+
+(75)
+Tempered Glass (Screen), if any. Should not include forms of facilitated communication. Is safe to put in your mouth. A virtual reward system or virtual celebration for completing communication activities.
+With Objectives: DUR, EZY, CEF, HYS, CLS, EGN
+Score: 43.0
+
+(76)
+Durable plastic frame (Acrylic, PVC, etc.). A uniform body, with no cases or removable aspects. Picture board. Comfortable to grasp or hold.
+With Objectives: DUR, CEF, CLS, EZY, POR, HYS
+Score: 43.0
+
+(77)
 Durable plastic frame (Acrylic, PVC, etc.). Intuitive UI/UX. Is safe to put in your mouth. Includes media that Phoebe enjoys.
 With Objectives: DUR, CEF, EZY, HYS, CLS, EGN
 Score: 43.0
 
-(21)
-Liquid-tight enclosure. Lack of instruction manual. Visible to caretakers to reduce probability of losing it. Cue Cards with Phoebe's common needs.
-With Objectives: DUR, CLS, EZY, POR, EGN, CEF, HYS
-Score: 43.0
-
-(22)
-A uniform body, with no cases or removable aspects.. Infrequent software updates. Inclusion of replaceable batteries. Sign Language.
+(78)
+A uniform body, with no cases or removable aspects. Infrequent software updates. Inclusion of replaceable batteries. Sign Language.
 With Objectives: CLS, CEF, EZY, EGN, POR, HYS, DUR
 Score: 43.0
 
-(23)
-Easy and intuitive to assemble or set up.. Gels or shock-absorbing material built into the frame of the design. Is safe to put in your mouth. Drawing applications or capabilities, promoting creative growth.
-With Objectives: EZY, DUR, CEF, HYS, CLS, EGN
-Score: 44.0
+(79)
+Lack of instruction manual. Inclusion of replaceable batteries. Is safe to put in your mouth. Tablet with a strong case/cover (Otterbox).
+With Objectives: EZY, EGN, POR, HYS, CLS, DUR
+Score: 43.0
 
+(80)
+Should not include forms of facilitated communication. Limited moving parts that would contribute to high maintenance costs. Tablet with a strong case/cover (Otterbox). Comfortable to grasp or hold.
+With Objectives: EZY, CEF, CLS, DUR, POR, HYS
+Score: 43.0
+
+(81)
+Integration of an AI assistant, with the help of an open-source API. Multimodal UI Aspects. Is safe to put in your mouth. Gels or shock-absorbing material built into the frame of the design.
+With Objectives: EZY, EGN, HYS, CLS, DUR, CEF
+Score: 43.0
+
+(82)
+Visual Schedule (similar to 72 - builds on Schedule in Appendix). Machine Translation- similar to Google Translate. Is safe to put in your mouth. Magnets to mount.
+With Objectives: EZY, CEF, EGN, POR, HYS, CLS, DUR
+Score: 43.0
